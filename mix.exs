@@ -46,7 +46,7 @@ defmodule TDenginex.MixProject do
 
   defp package do
     [
-      name: "TDenginex",
+      name: "tdenginex",
       maintainers: ["lizhaochao"],
       licenses: ["AGPL-3.0"],
       links: %{"Gitee" => @gitee_repo_url, "GitHub" => @github_repo_url}
